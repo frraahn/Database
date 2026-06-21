@@ -1,5 +1,4 @@
-# 🗄️ Database Design Course Portfolio (SECR2523 / SECP2523)
-
+# 🗄️ Database Design 
 Welcome to my repository for the **Database (WBL)** course at Universiti Teknologi Malaysia (UTM). This space serves as a portfolio documenting our team-based relational database design lifecycle alongside my individual practical database laboratory scripts.
 
 ---
